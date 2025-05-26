@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\МатМодели\проект\GrowthModel\GrowthModel\obj\Debug\GrowthModel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\МатМодели\проект\GrowthModel\GrowthModel\obj\Debug\GrowthModelWinForms.Form1.resources
+C:\Users\User\Desktop\МатМодели\проект\GrowthModel\GrowthModel\obj\Debug\GrowthModel.Properties.Resources.resources
+C:\Users\User\Desktop\МатМодели\проект\GrowthModel\GrowthModel\obj\Debug\GrowthModel.csproj.GenerateResource.cache
+C:\Users\User\Desktop\МатМодели\проект\GrowthModel\GrowthModel\obj\Debug\GrowthModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\МатМодели\проект\GrowthModel\GrowthModel\bin\Debug\GrowthModel.exe.config
+C:\Users\User\Desktop\МатМодели\проект\GrowthModel\GrowthModel\bin\Debug\GrowthModel.exe
+C:\Users\User\Desktop\МатМодели\проект\GrowthModel\GrowthModel\bin\Debug\GrowthModel.pdb
+C:\Users\User\Desktop\МатМодели\проект\GrowthModel\GrowthModel\obj\Debug\GrowthModel.exe
+C:\Users\User\Desktop\МатМодели\проект\GrowthModel\GrowthModel\obj\Debug\GrowthModel.pdb
+C:\Users\User\Desktop\МатМодели\проект\GrowthModel\GrowthModel\obj\Debug\GrowthModel.exe.config
